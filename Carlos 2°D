@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Impacto do Desmatamento</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="cabecalho">
+        <div class="titulo">
+            <h1>Impacto do Desmatamento 🌳🔥</h1>
+        </div>
+        <p>Você já sentiu que o mundo tá meio fora de controle? Calor sem fim, enchentes do nada, bichos sumindo... Boa parte dessa treta vem do desmatamento. Quando a gente tira árvore demais da natureza, a bagunça começa: clima doido, menos água, mais problemas pra todo mundo.</p>
+        <nav>
+            <ul class="lista">
+                <div class="nav1">
+                    <li><a href="#problemas">Os Problemas</a></li>
+                </div>
+                <div class="nav2">
+                    <li><a href="#consequencias">Consequências</a></li>
+                </div>
+                <div class="nav3">
+                    <li><a href="#conclusao">Conclusão</a></li>
+                </div>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="problemas" class="conteudo">
+            <h2>Os Problemas 😬</h2>
+            <article>
+                <h3>Enchentes sinistras</h3>
+                <p>As árvores ajudam a segurar a água da chuva. Sem elas, a água desce com tudo e alaga ruas, casas, escolas... um caos total.</p>
+            </article>
+
+            <article>
+                <h3>Calor nível “dá pra fritar ovo no asfalto”</h3>
+                <p>Com menos verde, o ar fica seco e quente. As árvores funcionam como ar-condicionado natural — e a gente tá desligando eles sem pensar.</p>
+            </article>
+
+            <article>
+                <h3>Vida mais difícil</h3>
+                <p>Com o desmatamento, a natureza sofre e a gente também. Menos sombra, mais poluição, menos verde... e nossa saúde vai junto, tanto a física quanto a mental.</p>
+            </article>
+
+            <a href="https://ojs.brazilianjournals.com.br/ojs/index.php/BRJD/article/download/66410/47377/162792#:~:text=Os%20impactos%20ambientais%20provocados%20pelo,estufa%20(Soares%2C%202019)." class="cta-button" target="_blank">
+                Veja como isso afeta o mundo 🌎
+            </a>
+        </section>
+
+        <section id="consequencias" class="conteudo">
+            <h2>Consequências ⚠️</h2>
+            <ul class="liconsequencias">
+                <li>Enchentes mais comuns e perigosas;</li>
+                <li>Calor extremo nas cidades;</li>
+                <li>Bichos e plantas sumindo do mapa;</li>
+                <li>Mais poluição e doenças respiratórias;</li>
+                <li>Qualidade de vida lá embaixo;</li>
+                <li>Prejuízo pra quem vive da floresta.</li>
+            </ul>
+        </section>
+
+        <section id="conclusao" class="conteudo">
+            <h2>Conclusão ✨</h2>
+            <p>O desmatamento não é só um problema “lá da floresta”. Ele atinge todos nós, mesmo quem vive longe do mato. Se a gente quer um planeta mais equilibrado, com clima legal e saúde em dia, tem que cuidar do meio ambiente — e isso começa com atitudes pequenas, tipo reciclar, plantar, estudar e cobrar dos políticos.</p>
+            <div class="videoyt">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/ILh7nDEKGqc?si=feol6sZCHo1Cg-jQ" title="Vídeo sobre desmatamento" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+       <div class="mark">
+            <a href="https://github.com/eubarsott1">2025 | @eu_.barsotti</a>
+        </div>
+    </footer>
+</body>
+</html>
