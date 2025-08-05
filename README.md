@@ -47,5 +47,5 @@ Se a gente quer um planeta mais equilibrado, tem que cuidar melhor dele.
  Plantar,  Reciclar,  Estudar e  Cobrar de quem governa.
 
 
-Desenvolvido com 💚 por [@eubarsott1](https://github.com/eubarsott1) — 2025
+Desenvolvido por [@eubarsott1](https://github.com/eubarsott1) — 2025
 
